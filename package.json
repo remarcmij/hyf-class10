@@ -1,0 +1,14 @@
+{
+  "name": "hyf-class10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch sentences.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.11.2"
+  }
+}

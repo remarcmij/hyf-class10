@@ -1,0 +1,2913 @@
+{
+  "en": [
+    {
+      "id": 1000,
+      "phrase": "Who?",
+      "translation": "Wie?",
+      "subject": "questions"
+    },
+    {
+      "id": 1001,
+      "phrase": "Who's that?",
+      "translation": "Wie is dat?",
+      "subject": "questions"
+    },
+    {
+      "id": 1002,
+      "phrase": "What?",
+      "translation": "Wat?",
+      "subject": "questions"
+    },
+    {
+      "id": 1003,
+      "phrase": "What's there to see here?",
+      "translation": "Wat is hier te zien?",
+      "subject": "questions"
+    },
+    {
+      "id": 1004,
+      "phrase": "What kind of hotel is that?",
+      "translation": "Wat voor soort hotel is dat?",
+      "subject": "questions"
+    },
+    {
+      "id": 1005,
+      "phrase": "Where?",
+      "translation": "Waar?",
+      "subject": "questions"
+    },
+    {
+      "id": 1006,
+      "phrase": "Where's the bathroom?",
+      "translation": "Waar is het toilet?",
+      "subject": "questions"
+    },
+    {
+      "id": 1007,
+      "phrase": "Where are you going?",
+      "translation": "Waar gaat u naartoe?",
+      "subject": "questions"
+    },
+    {
+      "id": 1008,
+      "phrase": "Where are you from?",
+      "translation": "Waar komt u vandaan?",
+      "subject": "questions"
+    },
+    {
+      "id": 1009,
+      "phrase": "How?",
+      "translation": "Hoe?",
+      "subject": "questions"
+    },
+    {
+      "id": 1010,
+      "phrase": "How far is that?",
+      "translation": "Hoe ver is dat?",
+      "subject": "questions"
+    },
+    {
+      "id": 1011,
+      "phrase": "How long does that take?",
+      "translation": "Hoe lang duurt dat?",
+      "subject": "questions"
+    },
+    {
+      "id": 1012,
+      "phrase": "How long is the trip?",
+      "translation": "Hoe lang duurt de reis?",
+      "subject": "questions"
+    },
+    {
+      "id": 1013,
+      "phrase": "How much?",
+      "translation": "Hoeveel?",
+      "subject": "questions"
+    },
+    {
+      "id": 1014,
+      "phrase": "How much is this?",
+      "translation": "Hoeveel kost dit?",
+      "subject": "questions"
+    },
+    {
+      "id": 1015,
+      "phrase": "What time is it?",
+      "translation": "Hoe laat is het?",
+      "subject": "questions"
+    },
+    {
+      "id": 1016,
+      "phrase": "Which glass is mine?",
+      "translation": "Welk glas is voor mij?",
+      "subject": "questions"
+    },
+    {
+      "id": 1017,
+      "phrase": "When?",
+      "translation": "Wanneer?",
+      "subject": "questions"
+    },
+    {
+      "id": 1018,
+      "phrase": "When are you leaving?",
+      "translation": "Wanneer vertrekt u?",
+      "subject": "questions"
+    },
+    {
+      "id": 1019,
+      "phrase": "Why?",
+      "translation": "Waarom?",
+      "subject": "questions"
+    },
+    {
+      "id": 1020,
+      "phrase": "Could you ... me?",
+      "translation": "Kunt u me ... ?",
+      "subject": "questions"
+    },
+    {
+      "id": 1021,
+      "phrase": "Could you help me, please?",
+      "translation": "Kunt u me helpen, a.u.b.?",
+      "subject": "questions"
+    },
+    {
+      "id": 1022,
+      "phrase": "Could you point that out to me?",
+      "translation": "Kunt u me dat wijzen?",
+      "subject": "questions"
+    },
+    {
+      "id": 1023,
+      "phrase": "Could you come with me, please?",
+      "translation": "Kunt u met me meegaan, a.u.b.?",
+      "subject": "questions"
+    },
+    {
+      "id": 1024,
+      "phrase": "Could you ...",
+      "translation": "Wilt u ... ?",
+      "subject": "questions"
+    },
+    {
+      "id": 1025,
+      "phrase": "Could you reserve some tickets for me, please?",
+      "translation": "Wilt u voor mij kaartjes reserveren, a.u.b.?",
+      "subject": "questions"
+    },
+    {
+      "id": 1026,
+      "phrase": "Do you know ... ?",
+      "translation": "Weet u ... ?",
+      "subject": "questions"
+    },
+    {
+      "id": 1027,
+      "phrase": "Do you know another hotel, please?",
+      "translation": "Weet u misschien een ander hotel?",
+      "subject": "questions"
+    },
+    {
+      "id": 1028,
+      "phrase": "Do you have ... ?",
+      "translation": "Hebt u ... ?",
+      "subject": "questions"
+    },
+    {
+      "id": 1029,
+      "phrase": "Do you have a ... for me?",
+      "translation": "Hebt u voor mij een ... ?",
+      "subject": "questions"
+    },
+    {
+      "id": 1030,
+      "phrase": "Do you have a vegetarian dish, please?",
+      "translation": "Hebt u misschien een gerecht zonder vlees?",
+      "subject": "questions"
+    },
+    {
+      "id": 1031,
+      "phrase": "I'd like ...",
+      "translation": "Ik wil graag ...",
+      "subject": "questions"
+    },
+    {
+      "id": 1032,
+      "phrase": "I'd like a kilo of apples, please",
+      "translation": "Ik wil graag een kilo appels",
+      "subject": "questions"
+    },
+    {
+      "id": 1033,
+      "phrase": "Can I ... ?",
+      "translation": "Mag ik ... ?",
+      "subject": "questions"
+    },
+    {
+      "id": 1034,
+      "phrase": "Can I take this?",
+      "translation": "Mag ik dit meenemen?",
+      "subject": "questions"
+    },
+    {
+      "id": 1035,
+      "phrase": "Can I smoke here?",
+      "translation": "Mag ik hier roken?",
+      "subject": "questions"
+    },
+    {
+      "id": 1036,
+      "phrase": "Could I ask you something?",
+      "translation": "Mag ik wat vragen?",
+      "subject": "questions"
+    },
+    {
+      "id": 1037,
+      "phrase": "Yes, of course",
+      "translation": "Ja, natuurlijk",
+      "subject": "answers"
+    },
+    {
+      "id": 1038,
+      "phrase": "No, I'm sorry",
+      "translation": "Nee, het spijt me",
+      "subject": "answers"
+    },
+    {
+      "id": 1039,
+      "phrase": "Yes, what can I do for you?",
+      "translation": "Ja, wat kan ik voor u doen?",
+      "subject": "answers"
+    },
+    {
+      "id": 1040,
+      "phrase": "Just a moment, please",
+      "translation": "Een ogenblikje, a.u.b.",
+      "subject": "answers"
+    },
+    {
+      "id": 1041,
+      "phrase": "No, I don't have time now",
+      "translation": "Nee, ik heb nu geen tijd",
+      "subject": "answers"
+    },
+    {
+      "id": 1042,
+      "phrase": "No, that's impossible",
+      "translation": "Nee, dat is onmogelijk",
+      "subject": "answers"
+    },
+    {
+      "id": 1043,
+      "phrase": "I think so",
+      "translation": "Ik geloof het wel",
+      "subject": "answers"
+    },
+    {
+      "id": 1044,
+      "phrase": "No, no-one",
+      "translation": "Nee, niemand",
+      "subject": "answers"
+    },
+    {
+      "id": 1045,
+      "phrase": "No, nothing",
+      "translation": "Nee, niets",
+      "subject": "answers"
+    },
+    {
+      "id": 1046,
+      "phrase": "That's (not) right",
+      "translation": "Dat klopt (niet)",
+      "subject": "answers"
+    },
+    {
+      "id": 1047,
+      "phrase": "I (don't) agree",
+      "translation": "Dat ben ik (niet) met u eens",
+      "subject": "answers"
+    },
+    {
+      "id": 1048,
+      "phrase": "All right",
+      "translation": "Dat is goed",
+      "subject": "answers"
+    },
+    {
+      "id": 1049,
+      "phrase": "Perhaps",
+      "translation": "Misschien",
+      "subject": "answers"
+    },
+    {
+      "id": 1050,
+      "phrase": "I don't know",
+      "translation": "Ik weet het niet",
+      "subject": "answers"
+    },
+    {
+      "id": 1051,
+      "phrase": "beware of the dog ",
+      "translation": "pas op voor de hond",
+      "subject": "signs"
+    },
+    {
+      "id": 1052,
+      "phrase": "casualties",
+      "translation": "eerste hulp",
+      "subject": "signs"
+    },
+    {
+      "id": 1053,
+      "phrase": "clearance",
+      "translation": "opruiming",
+      "subject": "signs"
+    },
+    {
+      "id": 1054,
+      "phrase": "closed",
+      "translation": "gesloten",
+      "subject": "signs"
+    },
+    {
+      "id": 1055,
+      "phrase": "closing-down sale",
+      "translation": "opheffingsuitverkoop",
+      "subject": "signs"
+    },
+    {
+      "id": 1056,
+      "phrase": "counter service only",
+      "translation": "bediening aan de bar",
+      "subject": "signs"
+    },
+    {
+      "id": 1057,
+      "phrase": "danger",
+      "translation": "gevaar",
+      "subject": "signs"
+    },
+    {
+      "id": 1058,
+      "phrase": "dentist's surgery",
+      "translation": "praktijk tandarts",
+      "subject": "signs"
+    },
+    {
+      "id": 1059,
+      "phrase": "do not disturb",
+      "translation": "niet storen, a.u.b.",
+      "subject": "signs"
+    },
+    {
+      "id": 1060,
+      "phrase": "emergency brake",
+      "translation": "noodrem",
+      "subject": "signs"
+    },
+    {
+      "id": 1061,
+      "phrase": "emergency exit",
+      "translation": "nooduitgang",
+      "subject": "signs"
+    },
+    {
+      "id": 1062,
+      "phrase": "engaged",
+      "translation": "bezet",
+      "subject": "signs"
+    },
+    {
+      "id": 1063,
+      "phrase": "enquire within",
+      "translation": "binnen meer informatie",
+      "subject": "signs"
+    },
+    {
+      "id": 1064,
+      "phrase": "entrance",
+      "translation": "ingang",
+      "subject": "signs"
+    },
+    {
+      "id": 1065,
+      "phrase": "escalator",
+      "translation": "roltrap",
+      "subject": "signs"
+    },
+    {
+      "id": 1066,
+      "phrase": "exit",
+      "translation": "uitgang",
+      "subject": "signs"
+    },
+    {
+      "id": 1067,
+      "phrase": "fire escape",
+      "translation": "brandtrap",
+      "subject": "signs"
+    },
+    {
+      "id": 1068,
+      "phrase": "fire extinguisher",
+      "translation": "brandblusser",
+      "subject": "signs"
+    },
+    {
+      "id": 1069,
+      "phrase": "fire hazard",
+      "translation": "brandgevaar",
+      "subject": "signs"
+    },
+    {
+      "id": 1070,
+      "phrase": "first aid",
+      "translation": "eerste hulp",
+      "subject": "signs"
+    },
+    {
+      "id": 1071,
+      "phrase": "... floor",
+      "translation": "... verdieping",
+      "subject": "signs"
+    },
+    {
+      "id": 1072,
+      "phrase": "for hire",
+      "translation": "te huur",
+      "subject": "signs"
+    },
+    {
+      "id": 1073,
+      "phrase": "for sale",
+      "translation": "te koop",
+      "subject": "signs"
+    },
+    {
+      "id": 1074,
+      "phrase": "full",
+      "translation": "vol",
+      "subject": "signs"
+    },
+    {
+      "id": 1075,
+      "phrase": "gents/gentlemen",
+      "translation": "heren (wc)",
+      "subject": "signs"
+    },
+    {
+      "id": 1076,
+      "phrase": "high voltage",
+      "translation": "hoogspanning",
+      "subject": "signs"
+    },
+    {
+      "id": 1077,
+      "phrase": "hospital",
+      "translation": "ziekenhuis",
+      "subject": "signs"
+    },
+    {
+      "id": 1078,
+      "phrase": "information",
+      "translation": "inlichtingen",
+      "subject": "signs"
+    },
+    {
+      "id": 1079,
+      "phrase": "keep off the grass",
+      "translation": "verboden op het gras te lopen",
+      "subject": "signs"
+    },
+    {
+      "id": 1080,
+      "phrase": "ladies",
+      "translation": "dames (wc)",
+      "subject": "signs"
+    },
+    {
+      "id": 1081,
+      "phrase": "mind the step",
+      "translation": "let op het afstapje",
+      "subject": "signs"
+    },
+    {
+      "id": 1082,
+      "phrase": "mind your head",
+      "translation": "stoot uw hoofd niet",
+      "subject": "signs"
+    },
+    {
+      "id": 1083,
+      "phrase": "no change given",
+      "translation": "geen teruggave van wisselgeld",
+      "subject": "signs"
+    },
+    {
+      "id": 1084,
+      "phrase": "no entry",
+      "translation": "verboden toegang",
+      "subject": "signs"
+    },
+    {
+      "id": 1085,
+      "phrase": "no litter",
+      "translation": "verboden afval te laten liggen",
+      "subject": "signs"
+    },
+    {
+      "id": 1086,
+      "phrase": "no open fires",
+      "translation": "open vuur verboden",
+      "subject": "signs"
+    },
+    {
+      "id": 1087,
+      "phrase": "no pets allowed",
+      "translation": "huisdieren niet toegestaan",
+      "subject": "signs"
+    },
+    {
+      "id": 1088,
+      "phrase": "no smoking",
+      "translation": "verboden te roken",
+      "subject": "signs"
+    },
+    {
+      "id": 1089,
+      "phrase": "opening hours",
+      "translation": "openingstijden",
+      "subject": "signs"
+    },
+    {
+      "id": 1090,
+      "phrase": "out of order",
+      "translation": "defect",
+      "subject": "signs"
+    },
+    {
+      "id": 1091,
+      "phrase": "pay here",
+      "translation": "kassa",
+      "subject": "signs"
+    },
+    {
+      "id": 1092,
+      "phrase": "please do not touch",
+      "translation": "niet aanraken",
+      "subject": "signs"
+    },
+    {
+      "id": 1093,
+      "phrase": "please take one",
+      "translation": "gratis mee te nemen",
+      "subject": "signs"
+    },
+    {
+      "id": 1094,
+      "phrase": "private",
+      "translation": "privé",
+      "subject": "signs"
+    },
+    {
+      "id": 1095,
+      "phrase": "pull/push",
+      "translation": "trekken/duwen",
+      "subject": "signs"
+    },
+    {
+      "id": 1096,
+      "phrase": "queue here",
+      "translation": "wacht hier in de rij",
+      "subject": "signs"
+    },
+    {
+      "id": 1097,
+      "phrase": "request stop",
+      "translation": "halte op verzoek",
+      "subject": "signs"
+    },
+    {
+      "id": 1098,
+      "phrase": "reserved",
+      "translation": "gereserveerd",
+      "subject": "signs"
+    },
+    {
+      "id": 1099,
+      "phrase": "sale",
+      "translation": "uitverkoop",
+      "subject": "signs"
+    },
+    {
+      "id": 1100,
+      "phrase": "surgery",
+      "translation": "praktijk huisarts",
+      "subject": "signs"
+    },
+    {
+      "id": 1101,
+      "phrase": "Tourist Information",
+      "translation": "VVV",
+      "subject": "signs"
+    },
+    {
+      "id": 1102,
+      "phrase": "underground",
+      "translation": "metro",
+      "subject": "signs"
+    },
+    {
+      "id": 1103,
+      "phrase": "wet paint",
+      "translation": "pas geverfd",
+      "subject": "signs"
+    },
+    {
+      "id": 1104,
+      "phrase": "What day is it today?",
+      "translation": "Welke dag is het vandaag?",
+      "subject": "date, time"
+    },
+    {
+      "id": 1105,
+      "phrase": "Today's Monday",
+      "translation": "Vandaag is het maandag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1106,
+      "phrase": "Tomorrow's Tuesday",
+      "translation": "Morgen is het dinsdag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1107,
+      "phrase": "The day after tomorrow is Wednesday",
+      "translation": "Overmorgen is het woensdag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1108,
+      "phrase": "Yesterday was Thursday",
+      "translation": "Gisteren was het donderdag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1109,
+      "phrase": "The day before yesterday was Friday",
+      "translation": "Eergisteren was het vrijdag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1110,
+      "phrase": "Is today Saturday?",
+      "translation": "Is het vandaag zaterdag?",
+      "subject": "date, time"
+    },
+    {
+      "id": 1111,
+      "phrase": "We're leaving next Sunday",
+      "translation": "We vertrekken aanstaande zondag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1112,
+      "phrase": "in January",
+      "translation": "in januari",
+      "subject": "date, time"
+    },
+    {
+      "id": 1113,
+      "phrase": "since February",
+      "translation": "sinds februari",
+      "subject": "date, time"
+    },
+    {
+      "id": 1114,
+      "phrase": "March",
+      "translation": "maart",
+      "subject": "date, time"
+    },
+    {
+      "id": 1115,
+      "phrase": "April",
+      "translation": "april",
+      "subject": "date, time"
+    },
+    {
+      "id": 1116,
+      "phrase": "May",
+      "translation": "mei",
+      "subject": "date, time"
+    },
+    {
+      "id": 1117,
+      "phrase": "June",
+      "translation": "juni",
+      "subject": "date, time"
+    },
+    {
+      "id": 1118,
+      "phrase": "July",
+      "translation": "juli",
+      "subject": "date, time"
+    },
+    {
+      "id": 1119,
+      "phrase": "August",
+      "translation": "augustus",
+      "subject": "date, time"
+    },
+    {
+      "id": 1120,
+      "phrase": "September",
+      "translation": "september",
+      "subject": "date, time"
+    },
+    {
+      "id": 1121,
+      "phrase": "October",
+      "translation": "oktober",
+      "subject": "date, time"
+    },
+    {
+      "id": 1122,
+      "phrase": "November",
+      "translation": "november",
+      "subject": "date, time"
+    },
+    {
+      "id": 1123,
+      "phrase": "December",
+      "translation": "december",
+      "subject": "date, time"
+    },
+    {
+      "id": 1124,
+      "phrase": "in the spring",
+      "translation": "in de lente",
+      "subject": "date, time"
+    },
+    {
+      "id": 1125,
+      "phrase": "in the summer",
+      "translation": "in de zomer",
+      "subject": "date, time"
+    },
+    {
+      "id": 1126,
+      "phrase": "in the autumn",
+      "translation": "in de herfst",
+      "subject": "date, time"
+    },
+    {
+      "id": 1127,
+      "phrase": "in the winter",
+      "translation": "in de winter",
+      "subject": "date, time"
+    },
+    {
+      "id": 1128,
+      "phrase": "the 21st (twenty-first) century",
+      "translation": "de 21e eeuw",
+      "subject": "date, time"
+    },
+    {
+      "id": 1129,
+      "phrase": "What's the date today?",
+      "translation": "De hoeveelste is het vandaag?",
+      "subject": "date, time"
+    },
+    {
+      "id": 1130,
+      "phrase": "Today's the 24th",
+      "translation": "Vandaag is het de 24e",
+      "subject": "date, time"
+    },
+    {
+      "id": 1131,
+      "phrase": "in the morning",
+      "translation": "'s morgens",
+      "subject": "date, time"
+    },
+    {
+      "id": 1132,
+      "phrase": "in the afternoon",
+      "translation": "'s middags",
+      "subject": "date, time"
+    },
+    {
+      "id": 1133,
+      "phrase": "in the evening",
+      "translation": "'s avonds",
+      "subject": "date, time"
+    },
+    {
+      "id": 1134,
+      "phrase": "at night",
+      "translation": "'s nachts",
+      "subject": "date, time"
+    },
+    {
+      "id": 1135,
+      "phrase": "this morning",
+      "translation": "vanmorgen",
+      "subject": "date, time"
+    },
+    {
+      "id": 1136,
+      "phrase": "this afternoon",
+      "translation": "vanmiddag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1137,
+      "phrase": "this evening",
+      "translation": "vanavond",
+      "subject": "date, time"
+    },
+    {
+      "id": 1138,
+      "phrase": "tonight",
+      "translation": "vannacht",
+      "subject": "date, time"
+    },
+    {
+      "id": 1139,
+      "phrase": "last night",
+      "translation": "vannacht",
+      "subject": "date, time"
+    },
+    {
+      "id": 1140,
+      "phrase": "this week",
+      "translation": "deze week",
+      "subject": "date, time"
+    },
+    {
+      "id": 1141,
+      "phrase": "next month",
+      "translation": "volgende maand",
+      "subject": "date, time"
+    },
+    {
+      "id": 1142,
+      "phrase": "last year",
+      "translation": "vorig jaar",
+      "subject": "date, time"
+    },
+    {
+      "id": 1143,
+      "phrase": "next ...",
+      "translation": "aanstaande ...",
+      "subject": "date, time"
+    },
+    {
+      "id": 1144,
+      "phrase": "in days/weeks",
+      "translation": "over dagen/weken",
+      "subject": "date, time"
+    },
+    {
+      "id": 1145,
+      "phrase": "in months/years",
+      "translation": "over maanden/jaar",
+      "subject": "date, time"
+    },
+    {
+      "id": 1146,
+      "phrase": "... weeks ago",
+      "translation": "... weken geleden",
+      "subject": "date, time"
+    },
+    {
+      "id": 1147,
+      "phrase": "day off",
+      "translation": "vrije dag",
+      "subject": "date, time"
+    },
+    {
+      "id": 1148,
+      "phrase": "What time is it?",
+      "translation": "Hoe laat is het?",
+      "subject": "date, time"
+    },
+    {
+      "id": 1149,
+      "phrase": "It's nine o'clock",
+      "translation": "Het is 9.00 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1150,
+      "phrase": "It's five past ten",
+      "translation": "Het is 10.05 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1151,
+      "phrase": "It's a quarter past eleven",
+      "translation": "Het is 11.15 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1152,
+      "phrase": "It's twenty past twelve",
+      "translation": "Het is 12.20 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1153,
+      "phrase": "It's half past one",
+      "translation": "Het is 13.30 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1154,
+      "phrase": "It's twenty-five to three",
+      "translation": "Het is 14.35 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1155,
+      "phrase": "It's aquarter to four",
+      "translation": "Het is 15.45 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1156,
+      "phrase": "It's ten to five",
+      "translation": "Het is 16.50 uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1157,
+      "phrase": "It's 12 noon",
+      "translation": "Het is 12.00 uur 's middags",
+      "subject": "date, time"
+    },
+    {
+      "id": 1158,
+      "phrase": "It's midnight",
+      "translation": "Het is 12.00 uur 's nachts",
+      "subject": "date, time"
+    },
+    {
+      "id": 1159,
+      "phrase": "half an hour",
+      "translation": "een half uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1160,
+      "phrase": "What time?",
+      "translation": "Hoe laat?",
+      "subject": "date, time"
+    },
+    {
+      "id": 1161,
+      "phrase": "What time can I come round?",
+      "translation": "Hoe laat kan ik langskomen?",
+      "subject": "date, time"
+    },
+    {
+      "id": 1162,
+      "phrase": "At ...",
+      "translation": "Om ...",
+      "subject": "date, time"
+    },
+    {
+      "id": 1163,
+      "phrase": "After ...",
+      "translation": "Na ...",
+      "subject": "date, time"
+    },
+    {
+      "id": 1164,
+      "phrase": "Before ...",
+      "translation": "Voor ...",
+      "subject": "date, time"
+    },
+    {
+      "id": 1165,
+      "phrase": "Between ... and ...",
+      "translation": "Tussen ... en ...",
+      "subject": "date, time"
+    },
+    {
+      "id": 1166,
+      "phrase": "From ... to ...",
+      "translation": "Van ... tot ...",
+      "subject": "date, time"
+    },
+    {
+      "id": 1167,
+      "phrase": "In ... minutes",
+      "translation": "Over ... minuten",
+      "subject": "date, time"
+    },
+    {
+      "id": 1168,
+      "phrase": "In ... hours",
+      "translation": "Over ... uur",
+      "subject": "date, time"
+    },
+    {
+      "id": 1169,
+      "phrase": "In a quarter of an hour",
+      "translation": "Over een kwartier",
+      "subject": "date, time"
+    },
+    {
+      "id": 1170,
+      "phrase": "In three quarters of an hour",
+      "translation": "Over drie kwartier",
+      "subject": "date, time"
+    },
+    {
+      "id": 1171,
+      "phrase": "early/late",
+      "translation": "te vroeg/laat",
+      "subject": "date, time"
+    },
+    {
+      "id": 1172,
+      "phrase": "on time",
+      "translation": "op tijd",
+      "subject": "date, time"
+    },
+    {
+      "id": 1173,
+      "phrase": "summertime",
+      "translation": "zomertijd",
+      "subject": "date, time"
+    },
+    {
+      "id": 1174,
+      "phrase": "wintertime",
+      "translation": "wintertijd"
+    },
+    {
+      "id": 1175,
+      "phrase": "0",
+      "translation": "nul",
+      "subject": "numbers"
+    },
+    {
+      "id": 1176,
+      "phrase": "1",
+      "translation": "één",
+      "subject": "numbers"
+    },
+    {
+      "id": 1177,
+      "phrase": "2",
+      "translation": "twee",
+      "subject": "numbers"
+    },
+    {
+      "id": 1178,
+      "phrase": "3",
+      "translation": "drie",
+      "subject": "numbers"
+    },
+    {
+      "id": 1179,
+      "phrase": "4",
+      "translation": "vier",
+      "subject": "numbers"
+    },
+    {
+      "id": 1180,
+      "phrase": "5",
+      "translation": "vijf",
+      "subject": "numbers"
+    },
+    {
+      "id": 1181,
+      "phrase": "6",
+      "translation": "zes",
+      "subject": "numbers"
+    },
+    {
+      "id": 1182,
+      "phrase": "7",
+      "translation": "zeven",
+      "subject": "numbers"
+    },
+    {
+      "id": 1183,
+      "phrase": "8",
+      "translation": "acht",
+      "subject": "numbers"
+    },
+    {
+      "id": 1184,
+      "phrase": "9",
+      "translation": "negen",
+      "subject": "numbers"
+    },
+    {
+      "id": 1185,
+      "phrase": "10",
+      "translation": "tien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1186,
+      "phrase": "11",
+      "translation": "elf",
+      "subject": "numbers"
+    },
+    {
+      "id": 1187,
+      "phrase": "12",
+      "translation": "twaalf",
+      "subject": "numbers"
+    },
+    {
+      "id": 1188,
+      "phrase": "13",
+      "translation": "dertien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1189,
+      "phrase": "14",
+      "translation": "veertien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1190,
+      "phrase": "15",
+      "translation": "vijftien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1191,
+      "phrase": "16",
+      "translation": "zestien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1192,
+      "phrase": "17",
+      "translation": "zeventien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1193,
+      "phrase": "18",
+      "translation": "achttien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1194,
+      "phrase": "19",
+      "translation": "negentien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1195,
+      "phrase": "20",
+      "translation": "twintig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1196,
+      "phrase": "21",
+      "translation": "eenentwintig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1197,
+      "phrase": "22",
+      "translation": "tweeëntwintig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1198,
+      "phrase": "30",
+      "translation": "dertig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1199,
+      "phrase": "31",
+      "translation": "eenendertig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1200,
+      "phrase": "32",
+      "translation": "tweeëndertig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1201,
+      "phrase": "40",
+      "translation": "veertig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1202,
+      "phrase": "50",
+      "translation": "vijftig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1203,
+      "phrase": "60",
+      "translation": "zestig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1204,
+      "phrase": "70",
+      "translation": "zeventig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1205,
+      "phrase": "80",
+      "translation": "tachtig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1206,
+      "phrase": "90",
+      "translation": "negentig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1207,
+      "phrase": "100",
+      "translation": "honderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1208,
+      "phrase": "101",
+      "translation": "honderdeen",
+      "subject": "numbers"
+    },
+    {
+      "id": 1209,
+      "phrase": "110",
+      "translation": "honderdtien",
+      "subject": "numbers"
+    },
+    {
+      "id": 1210,
+      "phrase": "120",
+      "translation": "honderdtwintig",
+      "subject": "numbers"
+    },
+    {
+      "id": 1211,
+      "phrase": "200",
+      "translation": "tweehonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1212,
+      "phrase": "300",
+      "translation": "driehonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1213,
+      "phrase": "400",
+      "translation": "vierhonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1214,
+      "phrase": "500",
+      "translation": "vijfhonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1215,
+      "phrase": "600",
+      "translation": "zeshonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1216,
+      "phrase": "700",
+      "translation": "zevenhonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1217,
+      "phrase": "800",
+      "translation": "achthonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1218,
+      "phrase": "900",
+      "translation": "negenhonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1219,
+      "phrase": "1000",
+      "translation": "duizend",
+      "subject": "numbers"
+    },
+    {
+      "id": 1220,
+      "phrase": "1100",
+      "translation": "elfhonderd",
+      "subject": "numbers"
+    },
+    {
+      "id": 1221,
+      "phrase": "2000",
+      "translation": "tweeduizend",
+      "subject": "numbers"
+    },
+    {
+      "id": 1222,
+      "phrase": "10.000",
+      "translation": "tienduizend",
+      "subject": "numbers"
+    },
+    {
+      "id": 1223,
+      "phrase": "100.000",
+      "translation": "honderdduizend",
+      "subject": "numbers"
+    },
+    {
+      "id": 1224,
+      "phrase": "1st",
+      "translation": "eerste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1225,
+      "phrase": "2nd",
+      "translation": "tweede",
+      "subject": "numbers"
+    },
+    {
+      "id": 1226,
+      "phrase": "3rd",
+      "translation": "derder",
+      "subject": "numbers"
+    },
+    {
+      "id": 1227,
+      "phrase": "4th",
+      "translation": "vierde",
+      "subject": "numbers"
+    },
+    {
+      "id": 1228,
+      "phrase": "5th",
+      "translation": "vijfde",
+      "subject": "numbers"
+    },
+    {
+      "id": 1229,
+      "phrase": "6th",
+      "translation": "zesde",
+      "subject": "numbers"
+    },
+    {
+      "id": 1230,
+      "phrase": "7th",
+      "translation": "zevende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1231,
+      "phrase": "8th",
+      "translation": "achtste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1232,
+      "phrase": "9th",
+      "translation": "negende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1233,
+      "phrase": "10th",
+      "translation": "tiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1234,
+      "phrase": "11th",
+      "translation": "elfde",
+      "subject": "numbers"
+    },
+    {
+      "id": 1235,
+      "phrase": "12th",
+      "translation": "twaalfde",
+      "subject": "numbers"
+    },
+    {
+      "id": 1236,
+      "phrase": "13th",
+      "translation": "dertiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1237,
+      "phrase": "14th ",
+      "translation": "veertiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1238,
+      "phrase": "15th",
+      "translation": "vijftiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1239,
+      "phrase": "16th",
+      "translation": "zestiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1240,
+      "phrase": "17th",
+      "translation": "zeventiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1241,
+      "phrase": "18th",
+      "translation": "achttiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1242,
+      "phrase": "19th",
+      "translation": "negentiende",
+      "subject": "numbers"
+    },
+    {
+      "id": 1243,
+      "phrase": "20th",
+      "translation": "twintigste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1244,
+      "phrase": "21th",
+      "translation": "eenentwintigste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1245,
+      "phrase": "22nd",
+      "translation": "tweeëntwintigste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1246,
+      "phrase": "30th",
+      "translation": "dertigste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1247,
+      "phrase": "100th",
+      "translation": "honderdste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1248,
+      "phrase": "1000th",
+      "translation": "duizendste",
+      "subject": "numbers"
+    },
+    {
+      "id": 1249,
+      "phrase": "once",
+      "translation": "één maal",
+      "subject": "numbers"
+    },
+    {
+      "id": 1250,
+      "phrase": "twice",
+      "translation": "tweemaal",
+      "subject": "numbers"
+    },
+    {
+      "id": 1251,
+      "phrase": "and a half",
+      "translation": "en een half",
+      "subject": "numbers"
+    },
+    {
+      "id": 1252,
+      "phrase": "double",
+      "translation": "het dubbele",
+      "subject": "numbers"
+    },
+    {
+      "id": 1253,
+      "phrase": "half",
+      "translation": "de helft",
+      "subject": "numbers"
+    },
+    {
+      "id": 1254,
+      "phrase": "a quarter",
+      "translation": "een kwart",
+      "subject": "numbers"
+    },
+    {
+      "id": 1255,
+      "phrase": "a third",
+      "translation": "een derde",
+      "subject": "numbers"
+    },
+    {
+      "id": 1256,
+      "phrase": "a couple, a few, some",
+      "translation": "een paar, een aantal, enkele",
+      "subject": "numbers"
+    },
+    {
+      "id": 1257,
+      "phrase": "2 + 4 = 6",
+      "translation": "twee plus vier is zes",
+      "subject": "numbers"
+    },
+    {
+      "id": 1258,
+      "phrase": "4 - 2 = 2",
+      "translation": "vier min twee is twee",
+      "subject": "numbers"
+    },
+    {
+      "id": 1259,
+      "phrase": "2 × 4 = 8",
+      "translation": "twee maal vier is acht",
+      "subject": "numbers"
+    },
+    {
+      "id": 1260,
+      "phrase": "4 ÷ 2 = 2",
+      "translation": "vier gedeeld door twee is twee",
+      "subject": "numbers"
+    },
+    {
+      "id": 1261,
+      "phrase": "even/odd",
+      "translation": "even/oneven",
+      "subject": "numbers"
+    },
+    {
+      "id": 1262,
+      "phrase": "total",
+      "translation": "(in) totaal",
+      "subject": "numbers"
+    },
+    {
+      "id": 1263,
+      "phrase": "There are two of us",
+      "translation": "We zijn met zijn tweeën",
+      "subject": "numbers"
+    },
+    {
+      "id": 1264,
+      "phrase": "There are three of us",
+      "translation": "De groep bestaat uit drie personen",
+      "subject": "numbers"
+    },
+    {
+      "id": 1265,
+      "phrase": "surname",
+      "translation": "achternaam",
+      "subject": "personal details"
+    },
+    {
+      "id": 1266,
+      "phrase": "first/Christian name(s)",
+      "translation": "voornaam/voornamen",
+      "subject": "personal details"
+    },
+    {
+      "id": 1267,
+      "phrase": "initials",
+      "translation": "voorletters",
+      "subject": "personal details"
+    },
+    {
+      "id": 1268,
+      "phrase": "address (street/number)",
+      "translation": "adres (straat/nummer)",
+      "subject": "personal details"
+    },
+    {
+      "id": 1269,
+      "phrase": "postal code/town",
+      "translation": "Postcode/woonplaats",
+      "subject": "personal details"
+    },
+    {
+      "id": 1270,
+      "phrase": "sex (male/female)",
+      "translation": "geslacht (man/vrouw)",
+      "subject": "personal details"
+    },
+    {
+      "id": 1271,
+      "phrase": "nationality",
+      "translation": "nationaliteit",
+      "subject": "personal details"
+    },
+    {
+      "id": 1272,
+      "phrase": "date of birth",
+      "translation": "geboortedatum",
+      "subject": "personal details"
+    },
+    {
+      "id": 1273,
+      "phrase": "place of birth",
+      "translation": "geboorteplaats",
+      "subject": "personal details"
+    },
+    {
+      "id": 1274,
+      "phrase": "occupation",
+      "translation": "beroep",
+      "subject": "personal details"
+    },
+    {
+      "id": 1275,
+      "phrase": "married/single",
+      "translation": "gehuwd/ongehuwd",
+      "subject": "personal details"
+    },
+    {
+      "id": 1276,
+      "phrase": "living together/divorced",
+      "translation": "samenwonend/gescheiden",
+      "subject": "personal details"
+    },
+    {
+      "id": 1277,
+      "phrase": "widow/widower",
+      "translation": "weduwe/weduwnaar",
+      "subject": "personal details"
+    },
+    {
+      "id": 1278,
+      "phrase": "(number of) children",
+      "translation": "(aantal) kinderen",
+      "subject": "personal details"
+    },
+    {
+      "id": 1279,
+      "phrase": "identity card (passport/driving licence) number",
+      "translation": "nummer identiteitsbewijs (paspoort/rijbewijs)",
+      "subject": "personal details"
+    },
+    {
+      "id": 1280,
+      "phrase": "place and date of issue",
+      "translation": "plaats en datum van afgifte",
+      "subject": "personal details"
+    },
+    {
+      "id": 1281,
+      "phrase": "(mobile) telephone",
+      "translation": "(mobiele)telefoonnummer",
+      "subject": "personal details"
+    },
+    {
+      "id": 1282,
+      "phrase": "e-mail address",
+      "translation": "e-mailadres",
+      "subject": "personal details"
+    },
+    {
+      "id": 1283,
+      "phrase": "website",
+      "translation": "website",
+      "subject": "personal details"
+    },
+    {
+      "id": 1284,
+      "phrase": "weblog",
+      "translation": "weblog",
+      "subject": "personal details"
+    },
+    {
+      "id": 2000,
+      "phrase": "Where can I find a bank/an exchange office around here?",
+      "translation": "Waar is hier ergens een bank/een wisselkantoor?",
+      "subject": "bank"
+    },
+    {
+      "id": 2001,
+      "phrase": "Can I cash this here?",
+      "translation": "Kan ik hier deze inwisselen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2002,
+      "phrase": "Can I use my cash card here?",
+      "translation": "Kan ik hier pinnen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2003,
+      "phrase": "Can I withdraw money on my credit card here?",
+      "translation": "Kan ik hier met een creditcard geld opnemen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2004,
+      "phrase": "How much commission do I have to pay?",
+      "translation": "Hoeveel provisie moet ik betalen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2005,
+      "phrase": "Where do I sign?",
+      "translation": "Waar moet ik tekenen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2006,
+      "phrase": "Could I have smaller notes, please?",
+      "translation": "Kan ik kleinere biljetten krijgen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2007,
+      "phrase": "Where is there a cash dispenser around here?",
+      "translation": "Ik zoek een geldautomaat",
+      "subject": "bank"
+    },
+    {
+      "id": 2008,
+      "phrase": "What's the minimum/maximum amount?",
+      "translation": "Wat is het minimum/maximum?",
+      "subject": "bank"
+    },
+    {
+      "id": 2009,
+      "phrase": "Can I take out less than that?",
+      "translation": "Mag ik ook minder opnemen?",
+      "subject": "bank"
+    },
+    {
+      "id": 2010,
+      "phrase": "These are the details of my bank in Holland/Belgium",
+      "translation": "Dit zijn de gegevens van mijn bank in Nederland/België",
+      "subject": "bank"
+    },
+    {
+      "id": 2011,
+      "phrase": "This is my bank account/girobank number",
+      "translation": "Dit is mijn bankrekeningnummer",
+      "subject": "bank"
+    },
+    {
+      "id": 2012,
+      "phrase": "I'd like to change some money",
+      "translation": "Ik wil graag geld wisselen",
+      "subject": "bank"
+    },
+    {
+      "id": 2013,
+      "phrase": "euros into ...",
+      "translation": "euro tegen ...",
+      "subject": "bank"
+    },
+    {
+      "id": 2014,
+      "phrase": "What's the exchange rate?",
+      "translation": "Wat is de wisselkoers?",
+      "subject": "bank"
+    },
+    {
+      "id": 2015,
+      "phrase": "Could you give me some small change with it?",
+      "translation": "Kunt u me ook wat kleingeld geven?",
+      "subject": "bank"
+    },
+    {
+      "id": 2016,
+      "phrase": "This is not right",
+      "translation": "Dit klopt niet",
+      "subject": "bank"
+    },
+    {
+      "id": 2017,
+      "phrase": "Sign here, please",
+      "translation": "U moet hier tekenen",
+      "subject": "bank"
+    },
+    {
+      "id": 2018,
+      "phrase": "Fill this out, please ",
+      "translation": "U moet dit invullen",
+      "subject": "bank"
+    },
+    {
+      "id": 2019,
+      "phrase": "Could I see your passport, please? ",
+      "translation": "Mag ik uw paspoort zien?",
+      "subject": "bank"
+    },
+    {
+      "id": 2020,
+      "phrase": "Could I see some identification, please?",
+      "translation": "Mag ik uw identiteitsbewijs zien?",
+      "subject": "bank"
+    },
+    {
+      "id": 2021,
+      "phrase": "Could I see your bank pass, please?",
+      "translation": "Mag ik uw bankpasje zien?",
+      "subject": "bank"
+    },
+    {
+      "id": 2022,
+      "phrase": "parcels ",
+      "translation": "pakjes",
+      "subject": "post"
+    },
+    {
+      "id": 2023,
+      "phrase": "stamps",
+      "translation": "postzegels",
+      "subject": "post"
+    },
+    {
+      "id": 2024,
+      "phrase": "Could you tell me where I can find a post office around here?",
+      "translation": "Ik ben op zoek naar een postkantoor",
+      "subject": "post"
+    },
+    {
+      "id": 2025,
+      "phrase": "Could you tell me where I can find a postbox around here?",
+      "translation": "Is hier een brievenbus in de buurt?",
+      "subject": "post"
+    },
+    {
+      "id": 2026,
+      "phrase": "Which counter should I go to to change money?",
+      "translation": "Bij welk loket kan ik geld wisselen?",
+      "subject": "post"
+    },
+    {
+      "id": 2027,
+      "phrase": "Which counter should I go to for a Telegraph Money Order?",
+      "translation": "Moet ik hier zijn voor een telefonische overboeking?",
+      "subject": "post"
+    },
+    {
+      "id": 2028,
+      "phrase": "Poste restante",
+      "translation": "Poste restante",
+      "subject": "post"
+    },
+    {
+      "id": 2029,
+      "phrase": "Is there any mail for me? My name's ...",
+      "translation": "Is er post voor mij? Mijn naam is ...",
+      "subject": "post"
+    },
+    {
+      "id": 2030,
+      "phrase": "What's the postage for a ... to ... ?",
+      "translation": "Hoeveel moet er op een ... naar ... ?",
+      "subject": "post"
+    },
+    {
+      "id": 2031,
+      "phrase": "Are there enough stamps on it?",
+      "translation": "Zit er genoeg aan postzegels op?",
+      "subject": "post"
+    },
+    {
+      "id": 2032,
+      "phrase": "I'd like ... pence stamps",
+      "translation": "Ik wil graag ... postzegels van ...",
+      "subject": "post"
+    },
+    {
+      "id": 2033,
+      "phrase": "I'd like to send this parcel by special delivery",
+      "translation": "Ik wil dit pakket per expresse versturen",
+      "subject": "post"
+    },
+    {
+      "id": 2034,
+      "phrase": "I'd like to send this picture postcard by air mail",
+      "translation": "Ik wil deze ansichtkaart per luchtpost versturen",
+      "subject": "post"
+    },
+    {
+      "id": 2035,
+      "phrase": "I'd like to send this letter by registered mail",
+      "translation": "Ik wil deze brief aangetekend versturen",
+      "subject": "post"
+    },
+    {
+      "id": 2036,
+      "phrase": "Do you have a photocopier/fax machine here?",
+      "translation": "Kan ik hier fotokopiëren/faxen?",
+      "subject": "post"
+    },
+    {
+      "id": 2037,
+      "phrase": "How much is it per page?",
+      "translation": "Hoeveel kost het per pagina?",
+      "subject": "post"
+    },
+    {
+      "id": 2038,
+      "phrase": "Is there a phone box around here?",
+      "translation": "Is hier ergens een telefooncel in de buurt?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2039,
+      "phrase": "Is there a coin box around here?",
+      "translation": "Is hier ook een munttelefoon?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2040,
+      "phrase": "Could I use your phone, please?",
+      "translation": "Mag ik van uw telefoon gebruikmaken?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2041,
+      "phrase": "Can I charge my mobile here?",
+      "translation": "Mag ik mijn mobiele telefoon hier even opladen?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2042,
+      "phrase": "Can I borrow a charger?",
+      "translation": "Hebt u een telefoonoplader te leen?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2043,
+      "phrase": "My credit is finished",
+      "translation": "Mijn beltegoed is op",
+      "subject": "telephone"
+    },
+    {
+      "id": 2044,
+      "phrase": "Is there bluetooth on your mobile?",
+      "translation": "Heb je bluetooth op je telefoon?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2045,
+      "phrase": "How do I synchronize my mobile via bluetooth?",
+      "translation": "Hoe synchroniseer ik mijn telefoon via bluetooth?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2046,
+      "phrase": "Do you have a(n) ... phone directory ofthe city .../the district ...?",
+      "translation": "Hebt u een telefoongids van de stad .../de streek ...?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2047,
+      "phrase": "Where can I get a phone card/pre-paid card?",
+      "translation": "Waar kan ik een telefoonkaart/prepaidkaart kopen?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2048,
+      "phrase": "Could you give me the number for international directory enquiries?",
+      "translation": "Kunt u me helpen aan het nummer van informatie buitenland?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2049,
+      "phrase": "Could you give me the number of room ...?",
+      "translation": "Kunt u mij het nummer van kamer ... geven?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2050,
+      "phrase": "Could you give me the international access code?",
+      "translation": "Wat is het internationale toegangsnummer?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2051,
+      "phrase": "Could you give me the country code for ...?",
+      "translation": "Kunt u me helpen aan het landnummer van ...?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2052,
+      "phrase": "Could you give me the trunk code for ...?",
+      "translation": "Ik ben op zoek naar het kengetal van ...",
+      "subject": "telephone"
+    },
+    {
+      "id": 2053,
+      "phrase": "Could you give me the number of ...?",
+      "translation": "Kunt u me helpen aan het abonneenummer van ...?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2054,
+      "phrase": "Could you check if this number's correct?",
+      "translation": "Kunt u nagaan of dit nummer correct is?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2055,
+      "phrase": "Do I have to press '0' first?",
+      "translation": "Moet ik eerst een nul toetsen?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2056,
+      "phrase": "Could you dial this number for me, please?",
+      "translation": "Wilt u het volgende nummer voor me bellen?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2057,
+      "phrase": "Could you put me through to .../extension ... please?",
+      "translation": "Kunt u me doorverbinden met .../toestel ...?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2058,
+      "phrase": "I'd like to place a reverse-charge call to ...",
+      "translation": "Ik wil graag een collect call met ...",
+      "subject": "telephone"
+    },
+    {
+      "id": 2059,
+      "phrase": "What's the charge per minute?",
+      "translation": "Wat kost het per minuut?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2060,
+      "phrase": "Have there been any calls for me?",
+      "translation": "Heeft er iemand voor mij gebeld?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2061,
+      "phrase": "I got their answering service/voicemail",
+      "translation": "Ik kreeg een antwoordapparaat/voicemail",
+      "subject": "telephone"
+    },
+    {
+      "id": 2062,
+      "phrase": "A",
+      "translation": "Anna, Anton",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2063,
+      "phrase": "B",
+      "translation": "Bernard",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2064,
+      "phrase": "C",
+      "translation": "Cornelis",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2065,
+      "phrase": "D",
+      "translation": "Dirk",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2066,
+      "phrase": "E",
+      "translation": "Eduard",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2067,
+      "phrase": "F",
+      "translation": "Ferdinand",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2068,
+      "phrase": "G",
+      "translation": "Gerard",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2069,
+      "phrase": "H",
+      "translation": "Hendrik",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2070,
+      "phrase": "I",
+      "translation": "Isaak, Izaak",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2071,
+      "phrase": "J",
+      "translation": "Jan, Johannes",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2072,
+      "phrase": "K",
+      "translation": "Karel",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2073,
+      "phrase": "L",
+      "translation": "Lodewijk",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2074,
+      "phrase": "M",
+      "translation": "Maria, Marie",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2075,
+      "phrase": "N",
+      "translation": "Nico",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2076,
+      "phrase": "O",
+      "translation": "Otto",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2077,
+      "phrase": "P",
+      "translation": "Pieter",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2078,
+      "phrase": "Q",
+      "translation": "Quotiënt, Quirinus",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2079,
+      "phrase": "R",
+      "translation": "Rudolf",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2080,
+      "phrase": "S",
+      "translation": "Simon",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2081,
+      "phrase": "T",
+      "translation": "Teunis, Theodoor, Tinus",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2082,
+      "phrase": "U",
+      "translation": "Utrecht",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2083,
+      "phrase": "V",
+      "translation": "Victor",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2084,
+      "phrase": "W",
+      "translation": "Willem",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2085,
+      "phrase": "X",
+      "translation": "Xantippe",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2086,
+      "phrase": "Y",
+      "translation": "Ypsilon",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2087,
+      "phrase": "IJ",
+      "translation": "IJsbrand",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2088,
+      "phrase": "Z",
+      "translation": "Zaandam, Zacharias",
+      "subject": "telephone alphabet"
+    },
+    {
+      "id": 2089,
+      "phrase": "Hello, this is ...",
+      "translation": "Hallo, u spreekt met ...",
+      "subject": "telephone"
+    },
+    {
+      "id": 2090,
+      "phrase": "Who is this, please?",
+      "translation": "Met wie spreek ik?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2091,
+      "phrase": "Is this ...?",
+      "translation": "Spreek ik met ...?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2092,
+      "phrase": "I'm sorry, I've made a mistake",
+      "translation": "Sorry, ik heb het verkeerde nummer getoetst",
+      "subject": "telephone"
+    },
+    {
+      "id": 2093,
+      "phrase": "I can't hear you",
+      "translation": "Ik kan u niet verstaan",
+      "subject": "telephone"
+    },
+    {
+      "id": 2094,
+      "phrase": "I'd like to speak to ...",
+      "translation": "Ik wil graag spreken met ...",
+      "subject": "telephone"
+    },
+    {
+      "id": 2095,
+      "phrase": "Is there somebody who speaks Dutch?",
+      "translation": "Is er iemand die Nederlands spreekt?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2096,
+      "phrase": "Extension ... please",
+      "translation": "Mag ik toestel ... van u?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2097,
+      "phrase": "Could you ask him/her to call me back?",
+      "translation": "Wilt u vragen of hij/zij me terugbelt?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2098,
+      "phrase": "My name's ... My number's ...",
+      "translation": "Mijn naam is ... Mijn nummer is ...",
+      "subject": "telephone"
+    },
+    {
+      "id": 2099,
+      "phrase": "Could you tell him/her I called?",
+      "translation": "Wilt u zeggen dat ik gebeld heb?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2100,
+      "phrase": "I'll call back tomorrow",
+      "translation": "Ik bel hem/haar morgen terug",
+      "subject": "telephone"
+    },
+    {
+      "id": 2101,
+      "phrase": "There's a phone call for you",
+      "translation": "Er is telefoon voor u",
+      "subject": "telephone"
+    },
+    {
+      "id": 2102,
+      "phrase": "You have to press '0' first",
+      "translation": "U moet eerst een nul toetsen",
+      "subject": "telephone"
+    },
+    {
+      "id": 2103,
+      "phrase": "One moment, please ",
+      "translation": "Hebt u een momentje?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2104,
+      "phrase": "There's no answer",
+      "translation": "Ik krijg geen gehoor",
+      "subject": "telephone"
+    },
+    {
+      "id": 2105,
+      "phrase": "The line's engaged",
+      "translation": "Het toestel is bezet",
+      "subject": "telephone"
+    },
+    {
+      "id": 2106,
+      "phrase": "Do you want to hold?",
+      "translation": "Wilt u wachten?",
+      "subject": "telephone"
+    },
+    {
+      "id": 2107,
+      "phrase": "Putting you through",
+      "translation": "Ik verbind u door",
+      "subject": "telephone"
+    },
+    {
+      "id": 2108,
+      "phrase": "You've got a wrong number",
+      "translation": "U hebt een verkeerd nummer",
+      "subject": "telephone"
+    },
+    {
+      "id": 2109,
+      "phrase": "He's/she's not here right now",
+      "translation": "Hij/zij is op het ogenblik niet aanwezig",
+      "subject": "telephone"
+    },
+    {
+      "id": 2110,
+      "phrase": "He'll/she'll be back ...",
+      "translation": "Hij/zij is ... weer te bereiken",
+      "subject": "telephone"
+    },
+    {
+      "id": 2111,
+      "phrase": "This is the answering machine of ... ",
+      "translation": "Dit is het automatisch antwoordapparaat van ...",
+      "subject": "telephone"
+    },
+    {
+      "id": 2112,
+      "phrase": "Where can I get access to the internet?",
+      "translation": "Waar kan ik toegang tot internet krijgen?",
+      "subject": "internet"
+    },
+    {
+      "id": 2113,
+      "phrase": "Do you have (free) wireless internet?",
+      "translation": "Is er (gratis) draadloos internet?",
+      "subject": "internet"
+    },
+    {
+      "id": 2114,
+      "phrase": "What is the password to get on the internet?",
+      "translation": "Wat is het wachtwoord om internetverbinding te krijgen?",
+      "subject": "internet"
+    },
+    {
+      "id": 2115,
+      "phrase": "Is there an internet cafe?",
+      "translation": "Is er een internetcafé?",
+      "subject": "internet"
+    },
+    {
+      "id": 2116,
+      "phrase": "Where can I open my e-mail?",
+      "translation": "Waar kan ik mijn e-mail bekijken?",
+      "subject": "internet"
+    },
+    {
+      "id": 2117,
+      "phrase": "How much is the use of a computer per half hour/hour?",
+      "translation": "Hoeveel kost het gebruik van een computer per halfuur/uur?",
+      "subject": "internet"
+    },
+    {
+      "id": 2118,
+      "phrase": "Have you got a memory card for this camera?",
+      "translation": "Ik ben op zoek naar een geheugenkaart voor deze camera",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2119,
+      "phrase": "I'd like a memory card of ... MB/GB",
+      "translation": "Ik wil graag een geheugenkaart van ... MB/GB",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2120,
+      "phrase": "How many pictures can I take with this memory card?",
+      "translation": "Hoeveel foto's kan ik met deze geheugenkaart maken?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2121,
+      "phrase": "Can I have a new battery for this camera, please?",
+      "translation": "Ik wil graag een nieuwe accu voor deze camera",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2122,
+      "phrase": "Have you got disposable cameras?",
+      "translation": "Hebt u ook wegwerpcamera's?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2123,
+      "phrase": "Have you got mini-DV-tapes/dvd's for this camera?",
+      "translation": "Ik ben op zoek naar mini-DV-tapes/dvd's voor deze camera",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2124,
+      "phrase": "Have you got AA/AAA batteries?",
+      "translation": "Hebt u ook AA/AAA-batterijen?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2125,
+      "phrase": "Have you got battery cells?",
+      "translation": "Hebt u ook knoopcelbatterijen?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2126,
+      "phrase": "Have you got rechargable batteries?",
+      "translation": "Hebt u ook oplaadbare batterijen?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2127,
+      "phrase": "I'd like to have a battery charger",
+      "translation": "Ik zoek een batterijoplader",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2128,
+      "phrase": "I'd like to have some passport photos taken",
+      "translation": "Ik wil graag pasfoto's laten maken",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2129,
+      "phrase": "My camera is not working, can you repair it, please?",
+      "translation": "Mijn camera doet het niet, kunt u hem repareren?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2130,
+      "phrase": "The memory card is stuck, could you get it out for me, please?",
+      "translation": "De geheugenkaart zit vast, kunt u hem er voor mij uithalen?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2131,
+      "phrase": "The lens does not open",
+      "translation": "De lens gaat niet open",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2132,
+      "phrase": "Should I replace the batteries?",
+      "translation": "Moet ik de batterijen vervangen?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2133,
+      "phrase": "The flash isn't working",
+      "translation": "De flitser doet het niet",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2134,
+      "phrase": "Hoe lang gaat de reparatie duren?",
+      "translation": "How long is it going to take to repair?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2135,
+      "phrase": "I'd like to have prints made of digital files",
+      "translation": "Ik wil afdrukken maken van digitale bestanden",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2136,
+      "phrase": "I'd like to store photos on a cd/dvd",
+      "translation": "Ik wil graag foto's op een cd/dvd zetten",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2137,
+      "phrase": "Could you transfer the photos on my camera to this USB-stick?",
+      "translation": "Kunt u de foto's van mijn camera op deze USB-stick zetten?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2138,
+      "phrase": "I'd like ... prints from each negative",
+      "translation": "Kunt u ... afdrukken van elke foto voor me maken?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2139,
+      "phrase": "glossy/mat(t)",
+      "translation": "glanzend/mat",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2140,
+      "phrase": "four by six (inches)",
+      "translation": "10 × 15 (tien bij vijftien)",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2141,
+      "phrase": "I'd like to have this photo enlarged",
+      "translation": "Ik wil deze foto laten vergroten",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2142,
+      "phrase": "How much is printing?",
+      "translation": "Hoe duur is het afdrukken?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2143,
+      "phrase": "When will they be ready?",
+      "translation": "Wanneer zijn ze klaar?",
+      "subject": "photo, video"
+    },
+    {
+      "id": 2144,
+      "phrase": "Is the weather going to be good/bad?",
+      "translation": "Wordt het mooi/slecht weer?",
+      "subject": "weather"
+    },
+    {
+      "id": 2145,
+      "phrase": "How many degrees is it going to be?",
+      "translation": "Hoeveel graden wordt het?",
+      "subject": "weather"
+    },
+    {
+      "id": 2146,
+      "phrase": "Is it going to rain?",
+      "translation": "Gaat het regenen?",
+      "subject": "weather"
+    },
+    {
+      "id": 2147,
+      "phrase": "Is there going to be a storm?",
+      "translation": "Wordt er storm verwacht?",
+      "subject": "weather"
+    },
+    {
+      "id": 2148,
+      "phrase": "Is it going to snow tomorrow?",
+      "translation": "Gaat het morgen sneeuwen?",
+      "subject": "weather"
+    },
+    {
+      "id": 2149,
+      "phrase": "Is there going to be afrost?",
+      "translation": "Verwacht u dat het gaat vriezen?",
+      "subject": "weather"
+    },
+    {
+      "id": 2150,
+      "phrase": "Is the thaw setting in?",
+      "translation": "Gaat het dooien?",
+      "subject": "weather"
+    },
+    {
+      "id": 2151,
+      "phrase": "Is it going to be foggy?",
+      "translation": "Is er mist voorspeld?",
+      "subject": "weather"
+    },
+    {
+      "id": 2152,
+      "phrase": "Is there going to be a thunderstorm?",
+      "translation": "Komt er onweer?",
+      "subject": "weather"
+    },
+    {
+      "id": 2153,
+      "phrase": "The weather's changing",
+      "translation": "Het weer slaat om",
+      "subject": "weather"
+    },
+    {
+      "id": 2154,
+      "phrase": "It's cooling down us",
+      "translation": "Het koelt af",
+      "subject": "weather"
+    },
+    {
+      "id": 2155,
+      "phrase": "What's the weather going to be like today/tomorrow?",
+      "translation": "Wat voor weer wordt het vandaag/morgen?",
+      "subject": "weather"
+    },
+    {
+      "id": 2156,
+      "phrase": "Is it going to stay like this?",
+      "translation": "Blijft het zo?",
+      "subject": "weather"
+    },
+    {
+      "id": 2157,
+      "phrase": "... degrees (above/below zero)",
+      "translation": "... graden (boven/onder nul]",
+      "subject": "weather"
+    },
+    {
+      "id": 2158,
+      "phrase": "black ice",
+      "translation": "ijzel",
+      "subject": "weather"
+    },
+    {
+      "id": 2159,
+      "phrase": "chilly",
+      "translation": "kil",
+      "subject": "weather"
+    },
+    {
+      "id": 2160,
+      "phrase": "clear",
+      "translation": "onbewolkt",
+      "subject": "weather"
+    },
+    {
+      "id": 2161,
+      "phrase": "cloudy",
+      "translation": "bewolkt",
+      "subject": "weather"
+    },
+    {
+      "id": 2162,
+      "phrase": "cold",
+      "translation": "koud",
+      "subject": "weather"
+    },
+    {
+      "id": 2163,
+      "phrase": "drizzle",
+      "translation": "motregen",
+      "subject": "weather"
+    },
+    {
+      "id": 2164,
+      "phrase": "fine",
+      "translation": "mooi",
+      "subject": "weather"
+    },
+    {
+      "id": 2165,
+      "phrase": "fog",
+      "translation": "mist",
+      "subject": "weather"
+    },
+    {
+      "id": 2166,
+      "phrase": "frost",
+      "translation": "vorst",
+      "subject": "weather"
+    },
+    {
+      "id": 2167,
+      "phrase": "hot",
+      "translation": "heet",
+      "subject": "weather"
+    },
+    {
+      "id": 2168,
+      "phrase": "mild",
+      "translation": "zacht",
+      "subject": "weather"
+    },
+    {
+      "id": 2169,
+      "phrase": "muggy",
+      "translation": "benauwd",
+      "subject": "weather"
+    },
+    {
+      "id": 2170,
+      "phrase": "overcast",
+      "translation": "betrokken",
+      "subject": "weather"
+    },
+    {
+      "id": 2171,
+      "phrase": "rain",
+      "translation": "regen",
+      "subject": "weather"
+    },
+    {
+      "id": 2172,
+      "phrase": "shower",
+      "translation": "regenbui",
+      "subject": "weather"
+    },
+    {
+      "id": 2173,
+      "phrase": "snow",
+      "translation": "sneeuw",
+      "subject": "weather"
+    },
+    {
+      "id": 2174,
+      "phrase": "squalls",
+      "translation": "rukwinden",
+      "subject": "weather"
+    },
+    {
+      "id": 2175,
+      "phrase": "sunny",
+      "translation": "zonnig",
+      "subject": "weather"
+    },
+    {
+      "id": 2176,
+      "phrase": "thunderstorm",
+      "translation": "onweersbui",
+      "subject": "weather"
+    },
+    {
+      "id": 2177,
+      "phrase": "wet",
+      "translation": "regenachtig",
+      "subject": "weather"
+    },
+    {
+      "id": 2178,
+      "phrase": "It's so hot/cold today!",
+      "translation": "Wat is het warm/koud vandaag!",
+      "subject": "weather"
+    },
+    {
+      "id": 2179,
+      "phrase": "Nice weather, isn't it?",
+      "translation": "Lekker weer, hè?",
+      "subject": "weather"
+    },
+    {
+      "id": 2180,
+      "phrase": "It's so windy/what a storm!",
+      "translation": "Wat een wind/storm!",
+      "subject": "weather"
+    },
+    {
+      "id": 2181,
+      "phrase": "All that rain/snow!",
+      "translation": "Wat een regen/sneeuw!",
+      "subject": "weather"
+    },
+    {
+      "id": 2182,
+      "phrase": "Has the weather been like this for long here?",
+      "translation": "Is het hier allang zulk weer?",
+      "subject": "weather"
+    },
+    {
+      "id": 2183,
+      "phrase": "Is it always this hot/cold here?",
+      "translation": "Is het hier altijd zo warm/koud?",
+      "subject": "weather"
+    },
+    {
+      "id": 2184,
+      "phrase": "Is it always this dry/wet here?",
+      "translation": "Is het hier altijd zo droog/nat?",
+      "subject": "weather"
+    },
+    {
+      "id": 2185,
+      "phrase": "We often have rainy weather",
+      "translation": "Bij ons regent het vaak",
+      "subject": "weather"
+    },
+    {
+      "id": 2186,
+      "phrase": "Is it safe to visit that area?",
+      "translation": "Is dat een veilige wijk om te bezoeken?",
+      "subject": "safety"
+    },
+    {
+      "id": 2187,
+      "phrase": "Can a woman go there unaccompanied?",
+      "translation": "Kan ik daar als vrouw alleen naartoe?",
+      "subject": "safety"
+    },
+    {
+      "id": 2188,
+      "phrase": "Is it safe to go out at night here?",
+      "translation": "Kan ik hier 's avonds veilig over straat?",
+      "subject": "safety"
+    },
+    {
+      "id": 2189,
+      "phrase": "Is the (tap)water safe to drink?",
+      "translation": "Is het (kraan)water drinkbaar?",
+      "subject": "safety"
+    },
+    {
+      "id": 2190,
+      "phrase": "There's no train service today because of a suspicious package",
+      "translation": "De treinen rijden niet vanwege een verdacht pakketje",
+      "subject": "safety"
+    },
+    {
+      "id": 2191,
+      "phrase": "The hotel will be evacuated because of a bomb scare",
+      "translation": "Het hotel wordt ontruimd vanwege een bommelding",
+      "subject": "safety"
+    },
+    {
+      "id": 2192,
+      "phrase": "Are there dangerous wild animals about?",
+      "translation": "Zitten hier gevaarlijke wilde dieren?",
+      "subject": "safety"
+    },
+    {
+      "id": 2193,
+      "phrase": "Do you often get earthquakes/volcanic eruptions here?",
+      "translation": "Komen hier vaak aardbevingen/vulkaanuitbarstingen voor?",
+      "subject": "safety"
+    },
+    {
+      "id": 2194,
+      "phrase": "Is there a risk of a flood or an avalanche?",
+      "translation": "Is er kans op een overstroming/lawine?",
+      "subject": "safety"
+    },
+    {
+      "id": 2195,
+      "phrase": "Is it safe to thumb a lift here?",
+      "translation": "Kan ik in deze omgeving veilig liften?",
+      "subject": "safety"
+    },
+    {
+      "id": 2196,
+      "phrase": "Are there malaria mosquitoes here?",
+      "translation": "Zijn hier malariamuggen?",
+      "subject": "safety"
+    },
+    {
+      "id": 2197,
+      "phrase": "Have these needies been sterilized?",
+      "translation": "Zijn deze naalden steriel?",
+      "subject": "safety"
+    },
+    {
+      "id": 2198,
+      "phrase": "Is this a safe camping area?",
+      "translation": "Is het hier veilig om te kamperen?",
+      "subject": "safety"
+    },
+    {
+      "id": 2199,
+      "phrase": "Do we have to take special precautions?",
+      "translation": "Moeten we nog bepaalde voorzorgsmaatregelen nemen?",
+      "subject": "safety"
+    }
+  ]
+}
