@@ -16,8 +16,9 @@ git clone https://github.com/remarcmij/hyf-class10.git
 cd hyf-class10
 npm install
 npm start
-Open File Explorer (Windows) or equivalent on Mac or Linux and go to the hyf-class10 folder.
 ```
+
+Open File Explorer (Windows) or equivalent on Mac or Linux and go to the hyf-class10 folder.
 
 Double-click the index.html file to open it in the browser.
 
