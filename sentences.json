@@ -308,7 +308,7 @@
     },
     {
       "id": 1051,
-      "phrase": "beware of the dog ",
+      "phrase": "beware of the dog",
       "translation": "pas op voor de hond",
       "subject": "signs"
     },
@@ -628,421 +628,421 @@
       "id": 1104,
       "phrase": "What day is it today?",
       "translation": "Welke dag is het vandaag?",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1105,
       "phrase": "Today's Monday",
       "translation": "Vandaag is het maandag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1106,
       "phrase": "Tomorrow's Tuesday",
       "translation": "Morgen is het dinsdag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1107,
       "phrase": "The day after tomorrow is Wednesday",
       "translation": "Overmorgen is het woensdag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1108,
       "phrase": "Yesterday was Thursday",
       "translation": "Gisteren was het donderdag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1109,
       "phrase": "The day before yesterday was Friday",
       "translation": "Eergisteren was het vrijdag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1110,
       "phrase": "Is today Saturday?",
       "translation": "Is het vandaag zaterdag?",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1111,
       "phrase": "We're leaving next Sunday",
       "translation": "We vertrekken aanstaande zondag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1112,
       "phrase": "in January",
       "translation": "in januari",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1113,
       "phrase": "since February",
       "translation": "sinds februari",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1114,
       "phrase": "March",
       "translation": "maart",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1115,
       "phrase": "April",
       "translation": "april",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1116,
       "phrase": "May",
       "translation": "mei",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1117,
       "phrase": "June",
       "translation": "juni",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1118,
       "phrase": "July",
       "translation": "juli",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1119,
       "phrase": "August",
       "translation": "augustus",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1120,
       "phrase": "September",
       "translation": "september",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1121,
       "phrase": "October",
       "translation": "oktober",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1122,
       "phrase": "November",
       "translation": "november",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1123,
       "phrase": "December",
       "translation": "december",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1124,
       "phrase": "in the spring",
       "translation": "in de lente",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1125,
       "phrase": "in the summer",
       "translation": "in de zomer",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1126,
       "phrase": "in the autumn",
       "translation": "in de herfst",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1127,
       "phrase": "in the winter",
       "translation": "in de winter",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1128,
       "phrase": "the 21st (twenty-first) century",
       "translation": "de 21e eeuw",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1129,
       "phrase": "What's the date today?",
       "translation": "De hoeveelste is het vandaag?",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1130,
       "phrase": "Today's the 24th",
       "translation": "Vandaag is het de 24e",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1131,
       "phrase": "in the morning",
       "translation": "'s morgens",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1132,
       "phrase": "in the afternoon",
       "translation": "'s middags",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1133,
       "phrase": "in the evening",
       "translation": "'s avonds",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1134,
       "phrase": "at night",
       "translation": "'s nachts",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1135,
       "phrase": "this morning",
       "translation": "vanmorgen",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1136,
       "phrase": "this afternoon",
       "translation": "vanmiddag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1137,
       "phrase": "this evening",
       "translation": "vanavond",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1138,
       "phrase": "tonight",
       "translation": "vannacht",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1139,
       "phrase": "last night",
       "translation": "vannacht",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1140,
       "phrase": "this week",
       "translation": "deze week",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1141,
       "phrase": "next month",
       "translation": "volgende maand",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1142,
       "phrase": "last year",
       "translation": "vorig jaar",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1143,
       "phrase": "next ...",
       "translation": "aanstaande ...",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1144,
       "phrase": "in days/weeks",
       "translation": "over dagen/weken",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1145,
       "phrase": "in months/years",
       "translation": "over maanden/jaar",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1146,
       "phrase": "... weeks ago",
       "translation": "... weken geleden",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1147,
       "phrase": "day off",
       "translation": "vrije dag",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1148,
       "phrase": "What time is it?",
       "translation": "Hoe laat is het?",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1149,
       "phrase": "It's nine o'clock",
       "translation": "Het is 9.00 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1150,
       "phrase": "It's five past ten",
       "translation": "Het is 10.05 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1151,
       "phrase": "It's a quarter past eleven",
       "translation": "Het is 11.15 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1152,
       "phrase": "It's twenty past twelve",
       "translation": "Het is 12.20 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1153,
       "phrase": "It's half past one",
       "translation": "Het is 13.30 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1154,
       "phrase": "It's twenty-five to three",
       "translation": "Het is 14.35 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1155,
       "phrase": "It's aquarter to four",
       "translation": "Het is 15.45 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1156,
       "phrase": "It's ten to five",
       "translation": "Het is 16.50 uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1157,
       "phrase": "It's 12 noon",
       "translation": "Het is 12.00 uur 's middags",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1158,
       "phrase": "It's midnight",
       "translation": "Het is 12.00 uur 's nachts",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1159,
       "phrase": "half an hour",
       "translation": "een half uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1160,
       "phrase": "What time?",
       "translation": "Hoe laat?",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1161,
       "phrase": "What time can I come round?",
       "translation": "Hoe laat kan ik langskomen?",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1162,
       "phrase": "At ...",
       "translation": "Om ...",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1163,
       "phrase": "After ...",
       "translation": "Na ...",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1164,
       "phrase": "Before ...",
       "translation": "Voor ...",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1165,
       "phrase": "Between ... and ...",
       "translation": "Tussen ... en ...",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1166,
       "phrase": "From ... to ...",
       "translation": "Van ... tot ...",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1167,
       "phrase": "In ... minutes",
       "translation": "Over ... minuten",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1168,
       "phrase": "In ... hours",
       "translation": "Over ... uur",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1169,
       "phrase": "In a quarter of an hour",
       "translation": "Over een kwartier",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1170,
       "phrase": "In three quarters of an hour",
       "translation": "Over drie kwartier",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1171,
       "phrase": "early/late",
       "translation": "te vroeg/laat",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1172,
       "phrase": "on time",
       "translation": "op tijd",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1173,
       "phrase": "summertime",
       "translation": "zomertijd",
-      "subject": "date, time"
+      "subject": "date-time"
     },
     {
       "id": 1174,
@@ -1423,7 +1423,7 @@
     },
     {
       "id": 1237,
-      "phrase": "14th ",
+      "phrase": "14th",
       "translation": "veertiende",
       "subject": "numbers"
     },
@@ -1593,121 +1593,121 @@
       "id": 1265,
       "phrase": "surname",
       "translation": "achternaam",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1266,
       "phrase": "first/Christian name(s)",
       "translation": "voornaam/voornamen",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1267,
       "phrase": "initials",
       "translation": "voorletters",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1268,
       "phrase": "address (street/number)",
       "translation": "adres (straat/nummer)",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1269,
       "phrase": "postal code/town",
       "translation": "Postcode/woonplaats",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1270,
       "phrase": "sex (male/female)",
       "translation": "geslacht (man/vrouw)",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1271,
       "phrase": "nationality",
       "translation": "nationaliteit",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1272,
       "phrase": "date of birth",
       "translation": "geboortedatum",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1273,
       "phrase": "place of birth",
       "translation": "geboorteplaats",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1274,
       "phrase": "occupation",
       "translation": "beroep",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1275,
       "phrase": "married/single",
       "translation": "gehuwd/ongehuwd",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1276,
       "phrase": "living together/divorced",
       "translation": "samenwonend/gescheiden",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1277,
       "phrase": "widow/widower",
       "translation": "weduwe/weduwnaar",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1278,
       "phrase": "(number of) children",
       "translation": "(aantal) kinderen",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1279,
       "phrase": "identity card (passport/driving licence) number",
       "translation": "nummer identiteitsbewijs (paspoort/rijbewijs)",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1280,
       "phrase": "place and date of issue",
       "translation": "plaats en datum van afgifte",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1281,
       "phrase": "(mobile) telephone",
       "translation": "(mobiele)telefoonnummer",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1282,
       "phrase": "e-mail address",
       "translation": "e-mailadres",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1283,
       "phrase": "website",
       "translation": "website",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 1284,
       "phrase": "weblog",
       "translation": "weblog",
-      "subject": "personal details"
+      "subject": "personal-details"
     },
     {
       "id": 2000,
@@ -1819,13 +1819,13 @@
     },
     {
       "id": 2018,
-      "phrase": "Fill this out, please ",
+      "phrase": "Fill this out, please",
       "translation": "U moet dit invullen",
       "subject": "bank"
     },
     {
       "id": 2019,
-      "phrase": "Could I see your passport, please? ",
+      "phrase": "Could I see your passport, please?",
       "translation": "Mag ik uw paspoort zien?",
       "subject": "bank"
     },
@@ -1843,7 +1843,7 @@
     },
     {
       "id": 2022,
-      "phrase": "parcels ",
+      "phrase": "parcels",
       "translation": "pakjes",
       "subject": "post"
     },
@@ -2085,163 +2085,163 @@
       "id": 2062,
       "phrase": "A",
       "translation": "Anna, Anton",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2063,
       "phrase": "B",
       "translation": "Bernard",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2064,
       "phrase": "C",
       "translation": "Cornelis",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2065,
       "phrase": "D",
       "translation": "Dirk",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2066,
       "phrase": "E",
       "translation": "Eduard",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2067,
       "phrase": "F",
       "translation": "Ferdinand",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2068,
       "phrase": "G",
       "translation": "Gerard",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2069,
       "phrase": "H",
       "translation": "Hendrik",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2070,
       "phrase": "I",
       "translation": "Isaak, Izaak",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2071,
       "phrase": "J",
       "translation": "Jan, Johannes",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2072,
       "phrase": "K",
       "translation": "Karel",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2073,
       "phrase": "L",
       "translation": "Lodewijk",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2074,
       "phrase": "M",
       "translation": "Maria, Marie",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2075,
       "phrase": "N",
       "translation": "Nico",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2076,
       "phrase": "O",
       "translation": "Otto",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2077,
       "phrase": "P",
       "translation": "Pieter",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2078,
       "phrase": "Q",
       "translation": "Quotiënt, Quirinus",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2079,
       "phrase": "R",
       "translation": "Rudolf",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2080,
       "phrase": "S",
       "translation": "Simon",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2081,
       "phrase": "T",
       "translation": "Teunis, Theodoor, Tinus",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2082,
       "phrase": "U",
       "translation": "Utrecht",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2083,
       "phrase": "V",
       "translation": "Victor",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2084,
       "phrase": "W",
       "translation": "Willem",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2085,
       "phrase": "X",
       "translation": "Xantippe",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2086,
       "phrase": "Y",
       "translation": "Ypsilon",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2087,
       "phrase": "IJ",
       "translation": "IJsbrand",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2088,
       "phrase": "Z",
       "translation": "Zaandam, Zacharias",
-      "subject": "telephone alphabet"
+      "subject": "telephone-alphabet"
     },
     {
       "id": 2089,
@@ -2329,7 +2329,7 @@
     },
     {
       "id": 2103,
-      "phrase": "One moment, please ",
+      "phrase": "One moment, please",
       "translation": "Hebt u een momentje?",
       "subject": "telephone"
     },
@@ -2377,7 +2377,7 @@
     },
     {
       "id": 2111,
-      "phrase": "This is the answering machine of ... ",
+      "phrase": "This is the answering machine of ...",
       "translation": "Dit is het automatisch antwoordapparaat van ...",
       "subject": "telephone"
     },
@@ -2421,157 +2421,157 @@
       "id": 2118,
       "phrase": "Have you got a memory card for this camera?",
       "translation": "Ik ben op zoek naar een geheugenkaart voor deze camera",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2119,
       "phrase": "I'd like a memory card of ... MB/GB",
       "translation": "Ik wil graag een geheugenkaart van ... MB/GB",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2120,
       "phrase": "How many pictures can I take with this memory card?",
       "translation": "Hoeveel foto's kan ik met deze geheugenkaart maken?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2121,
       "phrase": "Can I have a new battery for this camera, please?",
       "translation": "Ik wil graag een nieuwe accu voor deze camera",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2122,
       "phrase": "Have you got disposable cameras?",
       "translation": "Hebt u ook wegwerpcamera's?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2123,
       "phrase": "Have you got mini-DV-tapes/dvd's for this camera?",
       "translation": "Ik ben op zoek naar mini-DV-tapes/dvd's voor deze camera",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2124,
       "phrase": "Have you got AA/AAA batteries?",
       "translation": "Hebt u ook AA/AAA-batterijen?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2125,
       "phrase": "Have you got battery cells?",
       "translation": "Hebt u ook knoopcelbatterijen?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2126,
       "phrase": "Have you got rechargable batteries?",
       "translation": "Hebt u ook oplaadbare batterijen?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2127,
       "phrase": "I'd like to have a battery charger",
       "translation": "Ik zoek een batterijoplader",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2128,
       "phrase": "I'd like to have some passport photos taken",
       "translation": "Ik wil graag pasfoto's laten maken",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2129,
       "phrase": "My camera is not working, can you repair it, please?",
       "translation": "Mijn camera doet het niet, kunt u hem repareren?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2130,
       "phrase": "The memory card is stuck, could you get it out for me, please?",
       "translation": "De geheugenkaart zit vast, kunt u hem er voor mij uithalen?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2131,
       "phrase": "The lens does not open",
       "translation": "De lens gaat niet open",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2132,
       "phrase": "Should I replace the batteries?",
       "translation": "Moet ik de batterijen vervangen?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2133,
       "phrase": "The flash isn't working",
       "translation": "De flitser doet het niet",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2134,
       "phrase": "Hoe lang gaat de reparatie duren?",
       "translation": "How long is it going to take to repair?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2135,
       "phrase": "I'd like to have prints made of digital files",
       "translation": "Ik wil afdrukken maken van digitale bestanden",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2136,
       "phrase": "I'd like to store photos on a cd/dvd",
       "translation": "Ik wil graag foto's op een cd/dvd zetten",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2137,
       "phrase": "Could you transfer the photos on my camera to this USB-stick?",
       "translation": "Kunt u de foto's van mijn camera op deze USB-stick zetten?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2138,
       "phrase": "I'd like ... prints from each negative",
       "translation": "Kunt u ... afdrukken van elke foto voor me maken?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2139,
       "phrase": "glossy/mat(t)",
       "translation": "glanzend/mat",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2140,
       "phrase": "four by six (inches)",
       "translation": "10 × 15 (tien bij vijftien)",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2141,
       "phrase": "I'd like to have this photo enlarged",
       "translation": "Ik wil deze foto laten vergroten",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2142,
       "phrase": "How much is printing?",
       "translation": "Hoe duur is het afdrukken?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2143,
       "phrase": "When will they be ready?",
       "translation": "Wanneer zijn ze klaar?",
-      "subject": "photo, video"
+      "subject": "photo-video"
     },
     {
       "id": 2144,

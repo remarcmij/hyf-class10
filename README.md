@@ -22,3 +22,36 @@ Open File Explorer (Windows) or equivalent on Mac or Linux and go to the hyf-cla
 Double-click the index.html file to open it in the browser.
 
 Note: you need to repeat the command `npm start` from the `hyf-class10` folder in case you have (re)started your computer or killed the terminal/command window where this command was running.
+
+## API end points
+
+The following API end points may be of interest:
+
+- `http://localhost:3000/en?subject=<subject>`
+
+    where subject is one of following:
+
+    - questions
+    - answers
+    - signs
+    - date-time
+    - numbers
+    - personal-details
+    - bank
+    - post
+    - telephone
+    - telephone-alphabet
+    - internet
+    - photo-video
+    - weather
+    - safety
+
+- `http://localhost:3000/en?q=<term>`
+
+    where `<term>` is any search term. This performs a full-text search on any field, e.g.:
+
+    `http://localhost:3000/en?q=regen`
+
+Other end points can constructed by mapping the `posts` end point examples given in the documentation of `json-server` to match the `/en` end point we are using here.
+
+See https://github.com/typicode/json-server
